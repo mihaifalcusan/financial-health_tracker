@@ -42,7 +42,7 @@ This part was manually done in OpenRefine. An automated process using regular ex
 
 Figure 1. Raw data right after import
 
-<img src="media/Open_A.png" height="150">
+<img src="media/Open_A.PNG" height="150">
 
 Figure 2. Processed Data according to the ER model of the Database
 
