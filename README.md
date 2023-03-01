@@ -17,7 +17,7 @@ In the final form of the project, a client would use the product to do the follo
 
 ## Visualizing the Data Pipeline
 
-![](Tracker_3.png)
+![](media/Tracker_3.png)
 
 This pipeline illustrates each different data step needed. 
 
@@ -38,11 +38,11 @@ The user will be able to read his/her receipts to the app using similar technolo
 This part was manually done in OpenRefine. An automated process using regular expressions has to be done for more efficient processing. The following images are a preview of the data cleaning process:
 
 
-<img src="Open_B_2_E.png" height="150">
+<img src="media/Open_B_2_E.png" height="150">
 
 Figure 1. Raw data right after import
 
-<img src="Open_AfterPNG.png" height="150">
+<img src="media/Open_A.png" height="150">
 
 Figure 2. Processed Data according to the ER model of the Database
 
@@ -57,7 +57,7 @@ This can be done by scraping the Internet for food items from different Producer
 #### 6. Linking up spendings with consumed food (FINISHED)
 
 This will be made possible via relational databases. The following illustration represents the entity relationship structure of the MySQL DB which enables linking up financial and alimentation information
-![](ER.png)
+![](media/ER.png)
 
 Notice how the structure of the DB supports multiple persons, multiple currencies (with approximative exchange rates) and more
 
